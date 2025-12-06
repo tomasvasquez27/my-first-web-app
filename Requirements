@@ -1,0 +1,13 @@
+requests
+
+plotly
+
+pandas
+
+python-dotenv
+
+pytest
+
+flask
+
+gunicorn
